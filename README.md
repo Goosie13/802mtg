@@ -48,3 +48,6 @@ Password:J9)4gMh3*s
 Storage: UNLIMITED
 
 ~ WordPress Credentials | Remote Testing Server ~
+
+User:admin
+Password:FuMz}*62Fa
